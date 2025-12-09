@@ -1,6 +1,6 @@
 import requests
 
-bot_token = "6313038374:AAFJQH-bhWbUP5h1n0mPMcFCRiToJjOwMmw"
+bot_token = ""
 
 file_path = input("Введите путь к TXT файлу: ").strip()
 chat_id = input("Введите chat_id: ").strip()
